@@ -8,6 +8,7 @@
 
 프로젝트는 **MVVM 아키텍처**를 기반으로 기능별 패키징이 되어 있습니다.
 
+```text
 📁 app/src/main/java/com/qoocca/parentapp/
 │
 ├── 📁 data/                              # 데이터 계층
@@ -32,6 +33,7 @@
 ├── 📄 MyFirebaseMessagingService.kt      # FCM 메시지 수신 및 알림 생성
 ├── 📄 ReceiptDetailActivity.kt           # 결제 상세 처리 화면
 └── 📄 MainActivity.kt                    # 진입점 및 권한 체크
+```
 ---
 
 ## 🛠 기술 스택 (Tech Stack)
